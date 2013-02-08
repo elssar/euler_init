@@ -1,0 +1,11 @@
+author:
+    {
+        name: 'Name <email>',
+        license: 'License'
+    }
+languages:
+    {
+         py: ['#'],
+         rb: ['=begin', '=end'],
+         c:  ['/*', '*/']
+    }
