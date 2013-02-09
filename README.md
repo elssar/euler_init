@@ -15,3 +15,9 @@ Requires -
  - [PyYaml](http://pyyaml.org/)
  - [Beautiful Soup](http://www.crummy.com/software/BeautifulSoup/)
  - [Requests](http://docs.python-requests.org/en/latest/)
+ 
+To do
+
+ - Fix formatting issues.
+ - Handle images used in the questions in place of mathematical symbols.
+ - Refactor
